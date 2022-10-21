@@ -71,17 +71,50 @@ function Home() {
         <Link to="list">
           <li>lac#30--List</li>
         </Link>{" "}
-        <Link to="list">
-          <li>lac#30--List</li>
+        <Link to="chip">
+          <li>lac#31--Chip</li>
         </Link>{" "}
-        <Link to="list">
-          <li>lac#30--List</li>
+        <Link to="tooltip">
+          <li>lac#32--Tooltip</li>
         </Link>{" "}
-        <Link to="list">
-          <li>lac#30--List</li>
+        <Link to="table">
+          <li>lac#33--Table</li>
         </Link>{" "}
-        <Link to="list">
-          <li>lac#30--List</li>
+        <Link to="alert">
+          <li>lac#34--Alert</li>
+        </Link>
+        <Link to="snackbar">
+          <li>lac#35--Snackbar</li>
+        </Link>
+        <Link to="dialog">
+          <li>lac#36--Dialog</li>
+        </Link>
+        <Link to="progress">
+          <li>lac#37--Progress</li>
+        </Link>
+        <Link to="skelton">
+          <li>lac#38--skelton</li>
+        </Link>
+        <Link to="loadingButton">
+          <li>lac#39--LoadingButton</li>
+        </Link>{" "}
+        <Link to="loadingButton">
+          <li>lac#39--LoadingButton</li>
+        </Link>{" "}
+        <Link to="loadingButton">
+          <li>lac#39--LoadingButton</li>
+        </Link>{" "}
+        <Link to="loadingButton">
+          <li>lac#39--LoadingButton</li>
+        </Link>{" "}
+        <Link to="loadingButton">
+          <li>lac#39--LoadingButton</li>
+        </Link>{" "}
+        <Link to="loadingButton">
+          <li>lac#39--LoadingButton</li>
+        </Link>{" "}
+        <Link to="loadingButton">
+          <li>lac#39--LoadingButton</li>
         </Link>
       </ol>
     </div>

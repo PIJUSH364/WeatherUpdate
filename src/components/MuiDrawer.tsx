@@ -1,16 +1,5 @@
 import React, { useState } from "react";
-import {
-  Stack,
-  AppBar,
-  Toolbar,
-  IconButton,
-  Typography,
-  Button,
-  Menu,
-  MenuItem,
-  Box,
-  Drawer,
-} from "@mui/material";
+import { IconButton, Typography, Box, Drawer } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 function MuiDrawer() {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
@@ -34,7 +23,6 @@ function MuiDrawer() {
           <Typography variant="h6" component="div">
             side Panel
           </Typography>
-          
         </Box>
       </Drawer>
     </>
